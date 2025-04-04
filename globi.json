@@ -37,7 +37,7 @@
         "titles" : "genera_plan_ver",
         "datatype" : "string"
       }, {
-        "name" : "taxonTaxonSpecificEpithetName",
+        "name" : "targetTaxonSpecificEpithetName",
         "titles" : "sp_plant",
         "datatype" : "string"
       }, {
